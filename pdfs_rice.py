@@ -3,6 +3,7 @@
 import numpy as np
 from scipy.stats import rice
 import matplotlib.pyplot as plt
+
 fig, ax = plt.subplots(1, 1)
 
 #Calcule os quatro primeiros momentos:
